@@ -1,1 +1,1 @@
-import blynk.lib
+import blynk.library

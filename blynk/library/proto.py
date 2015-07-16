@@ -1,6 +1,6 @@
 from enum import Enum
 
-from blynk.lib.board import Board
+from blynk.library.board import Board
 
 class MsgType(Enum):
     RSP    = 0

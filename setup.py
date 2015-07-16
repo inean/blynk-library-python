@@ -12,7 +12,7 @@ setup(
     author       = "Maksym Ivanov",
     author_email = "ulidtko@gmail.com",
 
-    packages     = ["blynk.lib"],
+    packages     = ["blynk.library"],
     classifiers  = [
         "Topic :: Software Development :: Libraries :: Python Modules",
         "Development Status :: 2 - Pre-Alpha",
